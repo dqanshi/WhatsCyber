@@ -22,7 +22,7 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/FaridDadashzade/WhatsCyber)](https://replit.com/@FaridDadashzade/cybersession)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/FaridDadashzade/WhatsCyber)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dqanshi/WhatsCyber)
 
 ### The Hard Method
 ```js
